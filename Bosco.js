@@ -68,7 +68,7 @@ const atm = require("./lib/atm");
 const level = require("./lib/level");
 const afk = JSON.parse(fs.readFileSync('./lib/off.json'))
 const { isAfk, cekafk, addafk } = require('./lib/offline')
-const a = '▢'
+const a = '🦄'
 
 hit_today = []
 banChats = true
